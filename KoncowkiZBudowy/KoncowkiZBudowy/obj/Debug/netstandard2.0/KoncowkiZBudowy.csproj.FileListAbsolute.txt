@@ -1,0 +1,13 @@
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\obj\Debug\netstandard2.0\KoncowkiZBudowy.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\obj\Debug\netstandard2.0\KoncowkiZBudowy.AssemblyInfo.cs
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\obj\Debug\netstandard2.0\KoncowkiZBudowy.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\bin\Debug\netstandard2.0\KoncowkiZBudowy.deps.json
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\bin\Debug\netstandard2.0\KoncowkiZBudowy.dll
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\bin\Debug\netstandard2.0\ref\KoncowkiZBudowy.dll
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\bin\Debug\netstandard2.0\KoncowkiZBudowy.pdb
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\obj\Debug\netstandard2.0\KoncowkiZBudowy.dll
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\obj\Debug\netstandard2.0\ref\KoncowkiZBudowy.dll
+C:\Users\marci\source\repos\KoncowkiZBudowy\KoncowkiZBudowy\KoncowkiZBudowy\obj\Debug\netstandard2.0\KoncowkiZBudowy.pdb
